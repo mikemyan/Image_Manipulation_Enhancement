@@ -1,0 +1,3 @@
+load res/boston.jpg boston
+dither boston bostondither
+save res/boston_dithered.jpg bostondither
